@@ -14,4 +14,8 @@ const profile = {
 
 printProfile(profile);
 
-console.log(profile);
+const num = 17;
+
+if (num === 18) {
+  alert('Hi'); // eslint-disable-line no-alert
+}
